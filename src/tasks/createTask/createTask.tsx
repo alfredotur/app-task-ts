@@ -69,7 +69,7 @@ const AddTaskForm: React.FC<IAddTaskFormProps> = ({ open, close, save }) => {
                     </Grid>
                     <Grid size={12}>
                         <FormControl fullWidth>
-                            <InputLabel id="demo-simple-select-label">Age</InputLabel>
+                            <InputLabel id="demo-simple-select-label">Usuario</InputLabel>
                             <Select
                                 error={userId === 0}
                                 labelId="demo-simple-select-label"
