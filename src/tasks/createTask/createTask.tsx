@@ -75,7 +75,7 @@ const AddTaskForm: React.FC<IAddTaskFormProps> = ({ open, close, save }) => {
                                 labelId="demo-simple-select-label"
                                 id="demo-simple-select"
                                 value={userId.toString()}
-                                label="Age"
+                                label="Usuario"
                                 onChange={handleChangeUser}
                                 size="small"
                             >
