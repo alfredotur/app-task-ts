@@ -9,6 +9,10 @@ Que hace:
 - Simula marcar la tarea completada
 - Simula eliminar una tarea
 
+# Observaciones:
+- Las tareas de color naranja son las que no se encuentran completadas y por ende se les muestra la opción de "Completar".
+- Las tareas de color verde son las que se encuentran completadas y por ende no se les muestra la opción de "Completar".
+
 # Tecnnologías:
 
 - ReactJs v.18.3.1
